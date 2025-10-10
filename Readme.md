@@ -1,6 +1,5 @@
-##    ** ![][image1]**
+<img width="328" height="220" alt="image" src="https://github.com/user-attachments/assets/3de913bb-d782-47c5-bc53-812aef2a9ecf" />
 
-## 
 
 ## **Redes Neurais em Multicamadas** 
 
