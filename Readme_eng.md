@@ -1,8 +1,7 @@
-##    ** ![][image1]**
+<img width="328" height="220" alt="image" src="https://github.com/user-attachments/assets/3de913bb-d782-47c5-bc53-812aef2a9ecf" />
 
-## 
 
-## **Multilayer Neural Networks** 
+# **Multilayer Neural Networks** 
 
 ## **1\. Introduction**
 
@@ -50,7 +49,7 @@ The development of the project followed the steps below:
 
 * **Visual validation:** plotting accuracy and loss curves to monitor training progress and identify possible signs of overfitting.
 
-**4\. Project Structure**
+## **4\. Project Structure**
 
 ├── Redes Neurais em Multicamadas.ipynb   \# Main notebook  
 ├── README.md                                      \# Project explanation
